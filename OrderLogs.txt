@@ -1,0 +1,5 @@
+22-12-2023 13:21:51 Order for BUY LIQUIDSBI MIS for 1 Quantity is Rejected, Exchange order Id 1100027161
+22-12-2023 13:22:45 Order for BUY SBIN MIS for 1 Quantity is Rejected, Exchange order Id 1100027162
+22-12-2023 13:23:31 Order for BUY WIPRO NRML for 1 Quantity is Rejected, Exchange order Id 1200027163
+22-12-2023 13:23:50 Order for BUY SBIN CNC for 1 Quantity is Rejected, Exchange order Id 1300027164
+22-12-2023 13:24:31 Order for BUY WIPRO MIS for 1 Quantity is Rejected, Exchange order Id 1100027165
